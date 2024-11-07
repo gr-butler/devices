@@ -1,4 +1,4 @@
-module gr-butler/devices
+module github.com/gr-butler/devices
 
 go 1.22
 
